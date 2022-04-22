@@ -1,0 +1,89 @@
+/* synthaxe:  
+nom_Balise(
+   propriété : valeur ; ropriété 2 : valeur;
+)
+*/
+
+h1{
+    /*vertical-align: bottom;*/
+    color: rgba(0, 0, 0, 0.895);
+}
+/*
+header{
+background-color: rgb(0, 25, 252);
+border: 3px solid rgb(0, 0, 0);
+
+}
+*/
+#div1{
+
+background-color:rgb(245, 35, 35);
+display: flex;
+border: 5px double rgb(0, 0, 0);
+padding-top: 2px;
+margin-left: 2px;
+padding-bottom: 2px;
+
+}
+
+body{
+
+background-color: darkgray;
+
+}
+
+
+table{
+    width: 100%;
+
+}
+
+
+p{
+    font-size: 20px;
+    font-weight:bold;
+}   
+
+h2{ text-decoration: underline;}
+
+
+  
+h3{
+ background-color: rgb(239, 15, 15);
+}
+
+
+tr{
+font-weight: bold;
+
+}
+
+main{
+
+
+    display: flex;
+    margin-bottom: 1cm;
+}
+
+
+#Section{
+
+    border: 3px double black;
+    width: 30%;
+}
+
+
+#Synopsis{
+    text-align: justify;
+    border: 3px double black;
+    padding-right: 1cm;
+    width: 70%;
+}
+
+
+
+
+
+
+
+/*td = chque case, tr=chaque ligne*/

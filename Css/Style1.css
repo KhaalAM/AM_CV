@@ -1,0 +1,98 @@
+/* synthaxe:  
+nom_Balise(
+   propriété : valeur ; ropriété 2 : valeur;
+)
+*/
+
+h1{
+    color: rgba(245, 7, 27, 0.895);
+}
+
+h2{
+background-color: lawngreen;
+
+
+}
+
+
+div{
+
+    background-color: coral;
+
+}
+
+#Section{
+
+    font-size: 50px;
+
+}
+
+.similaire{
+    font-weight: bold;
+
+
+}
+
+section > article {
+
+    text-decoration: underline;
+}
+
+
+ul> li {
+
+    list-style-type: none;
+    display:inline;
+    float: right;/*deplacer a droite*/
+    /* ajout d'espacemerge interieur ou exterieur*/
+    padding: 10px;/* ajout marge interieur  sur 4 coin par degfefaut*/
+    padding-left: 10px;/*ajout marge a gauche*/
+    padding-right: 10%;/*Ajout marge a droite*/
+    margin: /*ajout marge a l'exterieur*/;
+    margin-top: 20px;
+
+
+}
+
+
+ul, li {
+
+    background-color: aquamarine;
+}
+
+
+
+body > p{
+    border: 1px solid green ;
+    width: 750px ;
+    height: 200px;
+
+}   
+
+
+section{
+
+    display: flex;
+    flex-direction: column;&
+
+
+
+
+}
+
+table{
+
+border-color: crimson;
+border: 2px;
+background-color: green;
+
+}
+
+
+
+
+
+
+
+
+

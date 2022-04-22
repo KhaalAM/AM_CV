@@ -1,0 +1,46 @@
+
+legend{
+
+font-weight: bold;
+
+}
+
+
+fieldset{
+padding: 1cm;
+background-color: rgba(245, 230, 139, 0.815);
+
+}
+
+
+input{
+    margin-left: 10em;
+    margin-bottom: 2em;
+
+
+}
+
+label{
+position: absolute;
+padding-top: 2em;
+left: 40px;
+font-weight: bold;
+
+}
+
+div{
+
+text-align: left;
+}
+
+bouton1{
+
+    
+}
+
+
+bouton2{
+
+
+
+}
